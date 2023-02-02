@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.trigger-box {
+  width: 1080px;
+  height: 100vh;
+  border: 1px solid black;
+  margin: 0px;
+  padding: 100px;
+  background-color: green;
+}
+.page-icon {
+  height: 450px;
+  width: 350px;
+}
+.page-data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}

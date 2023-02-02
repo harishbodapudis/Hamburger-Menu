@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.page-icon {
+  height: 450px;
+  width: 350px;
+}
+.page-data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
